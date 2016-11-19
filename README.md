@@ -15,6 +15,8 @@ As stated above, This is to demo usage of git and github.
 
 ## How to Contribute 
 
+Plase fork this repository and issue pull requests for reviews.
+
 ### Copyright 
 
 2016 Git Training
