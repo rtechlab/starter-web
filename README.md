@@ -14,3 +14,7 @@ As stated above, This is to demo usage of git and github.
 ## Deployment 
 
 ## How to Contribute 
+
+### Copyright 
+
+2016 Git Training
