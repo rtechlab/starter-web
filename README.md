@@ -3,6 +3,8 @@
 This is a simple web site project to show how to use git and github 
 togeather.
 
+Adding a line for rebase exmple
+
 ## Introduction
 
 This is example is to show different parts of the Git repository and various commands using a web project.
