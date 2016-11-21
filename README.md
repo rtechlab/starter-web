@@ -5,6 +5,8 @@ togeather.
 
 Adding a line for rebase exmple
 
+More changes from my feature brach too
+
 ## Introduction
 
 This is example is to show different parts of the Git repository and various commands using a web project.
