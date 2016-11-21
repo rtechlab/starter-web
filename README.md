@@ -17,6 +17,9 @@ As stated above, This is to demo usage of git and github.
 
 Plase fork this repository and issue pull requests for reviews.
 
+This is for code review
+
+
 ### Copyright 
 
 2016 Git Training
