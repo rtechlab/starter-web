@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Abhilash -- Admin -- #AdminA
 
 # THANKS
 
-    <name>
+    Abhilash Paladugu
 
 # TECHNOLOGY COLOPHON
 
